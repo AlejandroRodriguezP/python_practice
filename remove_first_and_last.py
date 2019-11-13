@@ -15,5 +15,5 @@ def remove_char(s):
         return f_last
 
 
-remove_char("alejandro")
+remove_char("hail satan")
 
